@@ -18,9 +18,9 @@
     ```
     cd ~/User/Project-2
     ```
-3) **Run** and enter both column row pair start and goal locations. If you chose a point inside of a boundary 
-4) 
-5)   ```
+3) **Run** and enter both column row pair start and goal locations. If you chose a point inside of a boundary, or coinciding with the start you will be prompted to restart 
+
+4)   ```
            python plot_path.py
            ```
-4) **Wait.** As code executes, once the goal position has been reached, the path will be generated 
+5) **Wait.** As code executes, once the goal position has been reached, the path will be generated 
